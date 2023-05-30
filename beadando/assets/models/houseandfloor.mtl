@@ -1,0 +1,197 @@
+# Blender 3.5.1 MTL File: 'None'
+# www.blender.org
+
+newmtl Material_#25
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/dark-wood-wallpapers-25196-6012074.jpg
+map_Bump -bm 1.000000 C:/Map #2
+
+newmtl blinn1SG.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:/Egyetemes/IV. Felev/loot/dickpick-main/abandoned_cottage_doorknob_BaseColor.png
+map_Bump C:/Egyetemes/IV. Felev/loot/dickpick-main/abandoned_cottage_doorknob_Normal.png -bm 1
+
+newmtl lambert10SG.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/Egyetemes/IV. Felev/loot/dickpick-main/abandoned_cottage_hori_beams_BaseColor.png
+map_Bump C:/Egyetemes/IV. Felev/loot/dickpick-main/abandoned_cottage_hori_beams_Normal.png -bm 1
+
+newmtl lambert11SG.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/Egyetemes/IV. Felev/loot/dickpick-main/abandoned_cottage_window_fram_wood_BaseColor.png
+map_Bump C:/Egyetemes/IV. Felev/loot/dickpick-main/abandoned_cottage_window_fram_wood_Normal.png -bm 1
+
+newmtl lambert12SG.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/Egyetemes/IV. Felev/loot/dickpick-main/abandoned_cottage_chimney_box_BaseColor.png
+map_Bump C:/Egyetemes/IV. Felev/loot/dickpick-main/abandoned_cottage_chimney_box_Normal.png -bm 1
+
+newmtl lambert13SG.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/Egyetemes/IV. Felev/loot/dickpick-main/abandoned_cottage_chimney_pot_BaseColor.png
+
+newmtl lambert14SG.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/Egyetemes/IV. Felev/loot/dickpick-main/abandoned_cottage_underneath_lowerroof_BaseColor.png
+map_Bump C:/Egyetemes/IV. Felev/loot/dickpick-main/abandoned_cottage_underneath_lowerroof_Normal.png -bm 1
+
+newmtl lambert15SG.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.440000 0.130000 0.020000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl lambert16SG.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/Egyetemes/IV. Felev/loot/dickpick-main/abandoned_cottage_flat_parts_roof_BaseColor.png
+map_Bump C:/Egyetemes/IV. Felev/loot/dickpick-main/abandoned_cottage_flat_parts_roof_Normal.png -bm 1
+
+newmtl lambert17SG.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.010000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl lambert2SG.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/Egyetemes/IV. Felev/loot/dickpick-main/abandoned_cottage_brickwall_BaseColor.png
+map_Bump C:/Egyetemes/IV. Felev/loot/dickpick-main/abandoned_cottage_brickwall_Normal.png -bm -0.16129
+
+newmtl lambert3SG.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/Egyetemes/IV. Felev/loot/dickpick-main/abandoned_cottage_boarded_windows_BaseColor.png
+map_Bump C:/Egyetemes/IV. Felev/loot/dickpick-main/abandoned_cottage_boarded_windows_Normal.png -bm 1
+
+newmtl lambert4SG.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/Egyetemes/IV. Felev/loot/dickpick-main/abandoned_cottage_doorbeams_BaseColor.png
+map_Bump C:/Egyetemes/IV. Felev/loot/dickpick-main/abandoned_cottage_doorbeams_Normal.png -bm 1
+
+newmtl lambert5SG.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/Egyetemes/IV. Felev/loot/dickpick-main/abandoned_cottage_window_conc_surround_BaseColor.png
+map_Bump C:/Egyetemes/IV. Felev/loot/dickpick-main/abandoned_cottage_window_conc_surround_Normal.png -bm 1
+
+newmtl lambert6SG.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/Egyetemes/IV. Felev/loot/dickpick-main/abandoned_cottage_main_roof_tiles_BaseColor.png
+map_Bump C:/Egyetemes/IV. Felev/loot/dickpick-main/abandoned_cottage_main_roof_tiles_Normal.png -bm 1
+
+newmtl lambert7SG.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/Egyetemes/IV. Felev/loot/dickpick-main/abandoned_cottage_lower_roof_tiles_BaseColor.png
+map_Bump C:/Egyetemes/IV. Felev/loot/dickpick-main/abandoned_cottage_lower_roof_tiles_Normal.png -bm 1
+
+newmtl lambert8SG.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/Egyetemes/IV. Felev/loot/dickpick-main/abandoned_cottage_door_BaseColor.png
+map_Bump C:/Egyetemes/IV. Felev/loot/dickpick-main/abandoned_cottage_door_Normal.png -bm 1
+
+newmtl lambert9SG.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/Egyetemes/IV. Felev/loot/dickpick-main/abandoned_cottage_underneathwindow_BaseColor.png
+map_Bump C:/Egyetemes/IV. Felev/loot/dickpick-main/abandoned_cottage_underneathwindow_Normal.png -bm 1

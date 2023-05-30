@@ -1,0 +1,5 @@
+Az alkalmazas alapja egy szellemjarta haz.
+A W-A-S-D gombokkal lehet kozlekedni a hazban.
+A kamera allasat a jobb es a bal egergomb lent tartasaval es az eger mozgatasaval lehet iranyitani.
+A fenyerot a Q gombbal feljebb, E gombbal lejjebb lehet venni.
+A H gombbal elo lehet hivni a sugot.

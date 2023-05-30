@@ -1,0 +1,13 @@
+# Blender 3.5.1 MTL File: 'None'
+# www.blender.org
+
+newmtl _20357_Cube_Bookcase_v120357_Cube_Bookcase_wood
+Ns 43.219307
+Ka 1.000000 1.000000 1.000000
+Ks 0.222733 0.222733 0.222733
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Egyetemes/IV. Felev/loot/dickpick-main/Cube_Bookcase_v1_L1.123c5a201b6c-9d45-4b37-a9c7-532e3f2e6e27/20357_Cube_Bookcase_diff.jpg
+map_Bump -bm 0.020000 C:/Egyetemes/IV. Felev/loot/dickpick-main/Cube_Bookcase_v1_L1.123c5a201b6c-9d45-4b37-a9c7-532e3f2e6e27/20357_Cube_Bookcase_bump.jpg
