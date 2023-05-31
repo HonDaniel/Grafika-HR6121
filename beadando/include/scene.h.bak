@@ -24,13 +24,13 @@ typedef struct Scene
     Model bookcase;
     Model table;
     Model candle;
-    Key movingKey;
+    Key movingBook;
     Material material;
     GLuint texture_id;
     GLuint texture_house;
     GLuint texture_bookcase;
     GLuint texture_table;
-    GLuint texture_key;
+    GLuint texture_book;
     GLuint texture_help;
 	GLuint texture_skeleton;
     float light;

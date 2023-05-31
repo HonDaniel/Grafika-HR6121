@@ -35,7 +35,7 @@ void init_scene(Scene* scene,Camera* camera)
 
     scene->texture_help = load_texture("assets/textures/help.jpg");
 
-
+	
     scene->material.ambient.red = 1;
     scene->material.ambient.green = 1;
     scene->material.ambient.blue = 1;
